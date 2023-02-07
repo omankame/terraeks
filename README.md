@@ -1,0 +1,2 @@
+# terraeks
+ekssetup via terraform
